@@ -1,6 +1,3 @@
----
-
-# docs/about.md
 # About Our Documentation
 
 This documentation system uses:
@@ -16,5 +13,3 @@ Version control for documentation is crucial when:
 - Supporting different product versions
 - Providing historical documentation
 - Managing breaking changes
-
----
