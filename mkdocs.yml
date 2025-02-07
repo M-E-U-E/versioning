@@ -18,10 +18,11 @@ theme:
 plugins:
   - search
   - mike
+  - macros
 
 extra:
   version:
     provider: mike
     default: latest  # Ensure a default version is set
-    name: 1.1
+    name: 3.1
     alias: latest

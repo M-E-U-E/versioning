@@ -1,6 +1,8 @@
-# Welcome to Version ${version}
+# Welcome to Version {{ current_version }}
 
-This page demonstrates how to use version-specific content. The current version of this documentation is ${version}.
+This page demonstrates how to use version-specific content. The current version of this documentation is **{{ current_version }}**.
+
+
 
 ## Version-Specific Features
 
