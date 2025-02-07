@@ -24,18 +24,18 @@ site_name: My Dummy Project
 repo_url: https://github.com/M-E-U-E/versioning
 site_dir: site
 
-nav:
-  - Home: index.md
-  - About: about.md
-  - Testing: test.md
-  - Greetings: hello.md
-  - Guide:
-      - Introduction: guide/introduction.md
-      - Installation: guide/installation.md
-      - Usage: guide/usage.md
-      - Intro:
-          - test:
-              - Hello: hello.md
+# nav:
+#   - Home: index.md
+#   - About: about.md
+#   - Testing: test.md
+#   - Greetings: hello.md
+#   - Guide:
+#       - Introduction: guide/introduction.md
+#       - Installation: guide/installation.md
+#       - Usage: guide/usage.md
+#       - Intro:
+#           - test:
+#               - Hello: hello.md
 
 theme:
   name: material
