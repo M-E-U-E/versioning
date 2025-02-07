@@ -1,9 +1,7 @@
-# Welcome to Version {{ current_version }}
+# Welcome to Version {{ extra.version.name }}
 
-This page demonstrates how to use version-specific content. The current version of this documentation is **{{ current_version }}**.
+This page demonstrates how to use version-specific content. The current version of this documentation is **{{ extra.version.name }}**.
 
-
-
-## Version-Specific Features
-
-Each version of our documentation may contain different features and improvements.
+## Version Information
+- Current Version: {{ extra.version.name }}
+- Version Alias: {{ extra.version.alias }}
