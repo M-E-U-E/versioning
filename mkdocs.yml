@@ -1,0 +1,18 @@
+site_name: My Dummy Project
+repo_url: https://github.com/yourusername/dummy-project
+site_dir: site
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Guide:
+      - Introduction: guide/introduction.md
+      - Installation: guide/installation.md
+      - Usage: guide/usage.md
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - mike

@@ -1,0 +1,7 @@
+
+
+# Virtual environment folder (change 'venv' to your specific env folder name)
+venv/
+env/
+.venv/
+
