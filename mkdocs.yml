@@ -34,9 +34,8 @@ nav:
       - Installation: guide/installation.md
       - Usage: guide/usage.md
       - Intro:
-            - test:
-                - hello.md
-
+          - test:
+              - Hello: hello.md
 
 theme:
   name: material
@@ -51,13 +50,13 @@ extra:
   version:
     provider: mike
     default: latest  # Ensure a default version is set
-    name: 3.2
+    name: 3.3
     alias: latest
 macros:
-  current_version: '3.2'
+  current_version: '3.3'
 extra:
   version:
     provider: mike
     default: latest
-    name: '3.2'
+    name: '3.3'
     alias: latest
